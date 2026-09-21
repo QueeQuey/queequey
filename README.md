@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! I'm Layne Woodruff👋
+
+* I've been coding on and off since 2019* primarily in Java and C++
+* If interested in Team Fortress 2 I make YouTube videos for [myself](https://www.youtube.com/@QueeQuey/videos), and [RGL](https://www.youtube.com/@RGLgg) ([VODS](https://www.youtube.com/@RGLVODs))
+* I also volunteer for [queue.tf](https://queue.tf/) as a Dev and Animator.  
+
+My first time coding was actually back in High School when I joined the programming club so they would have enough members to be an official club. I originally had no plans to be a Software Engineer (going to College for Neuroscience initially), and when we started our first language was Ruby on Rails. Given my goals at the time, it didn't take long before I dropped my efforts as the club grew. Years later when I had my own Computer hardware business I started at Columbus State and gave it one more shot and took a Java course and everything just clicked and led to me continuing at BG picking up C++ and other technologies along the way. Perhaps it was just a good professor, but Java and C++ hold a special place for starting my journey.
 
 <!--
 **QueeQuey/queequey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
